@@ -1,0 +1,12 @@
+openturns
+matplotlib
+numpy
+pandas
+scipy
+sklearn
+statistics
+random
+wordcloud
+csv
+collections
+itertools
